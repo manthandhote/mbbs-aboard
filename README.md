@@ -19,7 +19,7 @@ This project is a responsive landing page for "Study MBBS Abroad," designed to p
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/study-mbbs-abroad.git
+   git clone https://github.com/manthandhote/mbbs-aboard.git
    ```
 2. Navigate to the project folder:
    ```sh
